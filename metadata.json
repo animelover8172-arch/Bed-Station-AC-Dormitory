@@ -1,0 +1,6 @@
+{
+  "name": "Bed Station AC Dormitory | Modern Backpacker Hostel Varanasi",
+  "description": "Stay at Bed Station AC Dormitory in Maldahiya, Teliyabag, Varanasi with comfortable dorm beds, AC accommodation and traveller-friendly facilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
